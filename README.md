@@ -10,7 +10,7 @@
   Press <kbd>Left Ctrl</kbd> + <kbd>M</kbd> to open the menu. Doesn't work in multiplayer
 </p>
 <p align="center">  
-  READ THE INSTRUCTIONS. EVERYTHING YOU NEED TO KNOW IS ALREADY HERE.
+   READ THE INSTRUCTIONS. EVERYTHING YOU NEED TO KNOW IS NOT ALREADY HERE.
 </p>
 
 ## Introduction
